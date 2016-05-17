@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[REMY]]></title>
         <description><![CDATA[REMY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/remy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 20:58:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 20:59:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/remy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0d5cb9a-d974-4d62-a304-3e0ca5bd7c52.jpg">]]></description>
-            <link>undefinedf21d529e-18ae-420d-9cd3-954657cb90ee/index.html</link>
+            <link>https://thegrid.ai/remy/f21d529e-18ae-420d-9cd3-954657cb90ee/index.html</link>
             <guid isPermaLink="false">f21d529e-18ae-420d-9cd3-954657cb90ee</guid>
+            <pubDate>Tue, 17 May 2016 20:58:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af641858-3c95-4c67-82e6-4614428c0003.jpg">]]></description>
+            <link>https://thegrid.ai/remy/cc3c3b9a-1d63-4dfc-aeba-4d97cc24c277/index.html</link>
+            <guid isPermaLink="false">cc3c3b9a-1d63-4dfc-aeba-4d97cc24c277</guid>
             <pubDate>Tue, 17 May 2016 20:58:18 GMT</pubDate>
         </item>
     </channel>
